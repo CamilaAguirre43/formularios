@@ -67,7 +67,6 @@ form.login{
     border: solid 1px var(--color-celeste);
 }
 form.login input{
-    opacity: 30%;
     margin-top: 15px;
     margin-bottom: 15px;
     width: 100px;
