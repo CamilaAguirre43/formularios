@@ -79,14 +79,14 @@ form.register span.intereses{
 form.register input{
     margin-top: 15px;
     margin-bottom: 15px;
-    width: 100px;
+    
 }
 
 form.register button{
     background-color: var(--color-celeste);
     color: #fff;
-    width: 100px;
     margin: 15px;
+    width: 100px;
 }
 
 

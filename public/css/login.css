@@ -69,7 +69,6 @@ form.login{
 form.login input{
     margin-top: 15px;
     margin-bottom: 15px;
-    width: 100px;
 }
 form.login button{
     background-color: var(--color-celeste);
